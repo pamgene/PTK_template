@@ -1,0 +1,30 @@
+{
+ "kind": "Project",
+ "id": "",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": "https://github.com/pamgene/PTK_template"
+ },
+ "version": "976b7b4f91f5a961d4f4ef70759c03f116f6db18",
+ "isPublic": false
+}
