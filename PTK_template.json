@@ -1172,6 +1172,30 @@
    "id": "e731a790-4c26-4d5b-86e1-dd4c158f9637",
    "inputId": "77675d89-666c-11f1-9962-0d80a7487ca9",
    "outputId": "7155e9c7-6662-11f1-9962-0d80a7487ca9"
+  },
+  {
+   "kind": "Link",
+   "id": "9da6cc04-917c-46b7-b40f-fbc948879f6d",
+   "inputId": "387408cf-a59d-4701-8f5a-5eaee4a05009-i-0",
+   "outputId": "7fc357a7-0405-4806-bf13-592571424e7e-o-0"
+  },
+  {
+   "kind": "Link",
+   "id": "aafb5e32-fac1-42b4-8137-06e9f2abee08",
+   "inputId": "073f4373-bbfe-4280-a795-301b1de06fd8-i-0",
+   "outputId": "387408cf-a59d-4701-8f5a-5eaee4a05009-o-0"
+  },
+  {
+   "kind": "Link",
+   "id": "1cd23c9c-31fb-4ae4-a912-fb98a0b1d968",
+   "inputId": "a21f9703-876d-4021-a147-d421b413b079-i-0",
+   "outputId": "337c4cc3-185b-4990-8be2-5e636cdcbce6-o-0"
+  },
+  {
+   "kind": "Link",
+   "id": "56ca7b2e-a615-4802-a5df-94d63f762644",
+   "inputId": "6c3b2f3c-a646-4f44-972d-0e63ade699ad-i-0",
+   "outputId": "a21f9703-876d-4021-a147-d421b413b079-o-0"
   }
  ],
  "steps": [
@@ -1666,7 +1690,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6c54fa53-0598-4b07-952e-e66769b40ba4"
+    "id": "e6352471-5ef8-4c20-b163-c6444fceb71d"
    },
    "parentDataStepId": ""
   },
@@ -1709,7 +1733,7 @@
     "kind": "TableStepModel",
     "relation": {
      "kind": "UnionRelation",
-     "id": "38e08fa4-549f-489c-9e48-237663e3fbba",
+     "id": "44e35637-f5a1-48c4-bfec-c44a2193ee92",
      "relations": []
     },
     "filterSelector": ""
@@ -1754,7 +1778,7 @@
     "kind": "TableStepModel",
     "relation": {
      "kind": "UnionRelation",
-     "id": "bb546089-2be2-4103-9afa-47b700a6f4e9",
+     "id": "abd4faca-f064-486f-a536-2c6eb512751e",
      "relations": []
     },
     "filterSelector": ""
@@ -2151,7 +2175,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "952e8cbd-437b-4d3c-a032-9e686692be9d"
+    "id": "822dca4e-8a52-4526-a9d9-acf95303fb1b"
    },
    "parentDataStepId": ""
   },
@@ -2495,7 +2519,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "31514a23-96f1-48ff-8034-99cb14296895"
+    "id": "26a3a212-dc31-44a8-861d-8aa37af28b21"
    },
    "parentDataStepId": ""
   },
@@ -2839,7 +2863,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "4ab32831-220f-45f4-bbc2-083b3e949650"
+    "id": "2bf1b235-da94-495f-be95-8773492c9b4b"
    },
    "parentDataStepId": ""
   },
@@ -2873,7 +2897,7 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 934.2356649780272,
+     "x": 935.2356649780272,
      "y": 631.5
     }
    },
@@ -3173,7 +3197,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "52d965ba-7866-45cf-b0bd-96dc551be734"
+    "id": "06fc1d5f-c334-45ee-80b2-d0beb46b562f"
    },
    "parentDataStepId": ""
   },
@@ -3517,7 +3541,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "7d614b5d-2c11-4104-89a3-944c72f10485"
+    "id": "8cc1a05d-2387-4c63-ba0f-3bf87fd2b30b"
    },
    "parentDataStepId": ""
   },
@@ -3861,7 +3885,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d45c86fd-5ba8-48df-8a9c-ca413d88278f"
+    "id": "7547b483-3623-44ab-8526-1226ebf0cf19"
    },
    "parentDataStepId": ""
   },
@@ -4220,7 +4244,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d5ab3d18-94da-44e6-9cea-826776b8149d"
+    "id": "19e9f893-1209-4122-9de7-086c3be0e0ac"
    },
    "parentDataStepId": ""
   },
@@ -4636,7 +4660,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a75b925a-210d-4aa8-9757-b4ee98a4c39f"
+    "id": "237373e4-d917-48fb-9c8d-fd3850971ed3"
    },
    "parentDataStepId": ""
   },
@@ -4911,7 +4935,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e0cba823-97f5-426f-a91a-dddeac9cb265"
+    "id": "4b36404f-7dd3-46d4-b717-7150e9167fbd"
    },
    "parentDataStepId": ""
   },
@@ -5186,7 +5210,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "47b89e5a-a3b1-49f1-a7d3-bb47ca08ad7b"
+    "id": "a44ea600-c8a8-4dac-8b5c-f04a232287d2"
    },
    "parentDataStepId": ""
   },
@@ -5474,7 +5498,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1d76ee87-347c-4db2-ba0b-5ec4bf398761"
+    "id": "a6b889a6-f2b3-4c73-ba36-b806eab14ba5"
    },
    "parentDataStepId": ""
   },
@@ -5852,7 +5876,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b04283d7-63d1-45cd-99ed-ab086cd2a9bc"
+    "id": "b22ed110-3733-48dc-9946-9e8883fa351e"
    },
    "parentDataStepId": ""
   },
@@ -6696,7 +6720,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bba78877-2d92-4085-a31c-77d9b5901e9b"
+    "id": "e2192958-95dd-4645-a8c4-a090af94b900"
    },
    "parentDataStepId": ""
   },
@@ -7060,7 +7084,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "4d06b234-10da-4c78-a5e8-a612de9f2325"
+    "id": "dcc1df8a-dac0-4c76-88a7-f616efeca4c0"
    },
    "parentDataStepId": ""
   },
@@ -7094,8 +7118,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 2341.032456054688,
-     "y": 725.5
+     "x": 2342.032456054688,
+     "y": 726.5
     }
    },
    "state": {
@@ -7409,7 +7433,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "34996b22-84f6-40bf-8da0-4dd0f6d5f8ed"
+    "id": "d3b4d30d-067a-47ce-9536-e4acd3c54026"
    },
    "parentDataStepId": ""
   },
@@ -7697,7 +7721,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ec0662a5-da83-44d1-981e-b10f86ff93a5"
+    "id": "2690845a-262f-40b4-8528-40db69be0694"
    },
    "parentDataStepId": ""
   },
@@ -7932,7 +7956,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -8019,7 +8043,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "22b21996-afc0-4d5c-ade1-5591208ec1a5"
+    "id": "c0543884-4020-4438-a080-f6d2601feb51"
    },
    "parentDataStepId": ""
   },
@@ -8312,7 +8336,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "fdf34e38-fe45-47e4-87e8-75c1972bc3ad"
+    "id": "f8266753-ad80-4087-81ff-c984c210a3a6"
    },
    "parentDataStepId": ""
   },
@@ -8817,7 +8841,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5f4039e6-5e77-428a-8696-be27779173a7"
+    "id": "20540722-daf2-4475-950c-6583d7a9fd21"
    },
    "parentDataStepId": ""
   },
@@ -9190,7 +9214,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "975beed9-015f-4a4d-9a70-c3495d50b3f3"
+    "id": "54ec31ec-ec99-4507-b31d-086d5332456b"
    },
    "parentDataStepId": ""
   },
@@ -9425,7 +9449,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -9512,7 +9536,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "17160519-129c-4b1c-8119-736020029809"
+    "id": "3c49d84f-2e17-42bb-a06a-6b763030ef05"
    },
    "parentDataStepId": ""
   },
@@ -9805,7 +9829,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "f87ea2c6-fcfd-49a5-830a-c644c83fe306"
+    "id": "94b3235a-d20f-4bf6-81a9-3e19dca6ef4d"
    },
    "parentDataStepId": ""
   },
@@ -10310,7 +10334,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9c3d09bc-a03c-42d3-b786-cab2a8c12c28"
+    "id": "9429fa27-6e94-425d-be1b-891ea8e97543"
    },
    "parentDataStepId": ""
   },
@@ -10683,7 +10707,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "8a30911d-ba63-4cf9-acee-3e9e7e564553"
+    "id": "3f572f93-a53f-4269-9431-06ce88793466"
    },
    "parentDataStepId": ""
   },
@@ -10918,7 +10942,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -11005,7 +11029,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dde3268f-e86c-4e49-9ed1-4441e9156b0a"
+    "id": "ce527ad0-ea18-42af-a057-0dbe035c9b72"
    },
    "parentDataStepId": ""
   },
@@ -11298,7 +11322,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "77f8fe78-56e0-4c8b-ae43-220388dc1b31"
+    "id": "4a2f77e5-88b4-4b51-9e79-50dc8edd0272"
    },
    "parentDataStepId": ""
   },
@@ -11803,7 +11827,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "32b5dbbc-8d36-455e-bbca-38d4b71638f5"
+    "id": "9406af63-6ad2-4592-884e-edce4011878a"
    },
    "parentDataStepId": ""
   },
@@ -12176,7 +12200,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "faa7a3ec-790b-45d0-819f-ca043466d4c9"
+    "id": "d9b40c7c-58b2-4462-9be6-c3fb7c69f09c"
    },
    "parentDataStepId": ""
   },
@@ -12411,7 +12435,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -12498,7 +12522,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "636fc36e-ea2a-48ba-9adc-94ab11df8b1f"
+    "id": "f0ec8c79-2c42-4346-ab1b-2dfadd9d4091"
    },
    "parentDataStepId": ""
   },
@@ -12791,7 +12815,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "05a29fd8-3120-44cf-af72-b4085f6cc5bc"
+    "id": "760b7144-6282-4285-bbb2-ce6dfa12a990"
    },
    "parentDataStepId": ""
   },
@@ -13276,7 +13300,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b665bc85-a43c-40fa-908b-3ce8fed2e593"
+    "id": "a0cf91e9-c110-4ed7-92c8-e2c10d8b3bc2"
    },
    "parentDataStepId": ""
   },
@@ -13642,7 +13666,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e1572bb2-b777-46d0-80dd-eff05f1841bc"
+    "id": "f3294dc5-b0ae-4bd0-8a59-f51f02dd1687"
    },
    "parentDataStepId": ""
   },
@@ -13957,7 +13981,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a1d8f82c-758d-41af-bdbb-08b8726c1c5c"
+    "id": "6665b77f-9add-4084-9cdc-edf6024334f4"
    },
    "parentDataStepId": ""
   },
@@ -14250,7 +14274,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d1f4370d-b77e-4843-bf87-61abeac7d8bd"
+    "id": "123505f3-04b9-4c67-be04-259f966ddff8"
    },
    "parentDataStepId": ""
   },
@@ -14693,7 +14717,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "af447adc-14cf-478c-8379-e5fc0702be19"
+    "id": "5c4a5d8f-1800-4f15-a836-42e84ca7fb47"
    },
    "parentDataStepId": ""
   },
@@ -15372,7 +15396,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0a81c202-0518-4881-aa9e-474e5b5c530e"
+    "id": "83a30d08-25dd-4d7a-b00d-907424ea90fb"
    },
    "parentDataStepId": ""
   },
@@ -15644,7 +15668,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "41f6c347-6409-4a45-b88d-9f926a5e62eb"
+    "id": "5e333adf-cc31-498b-ab78-5390d91b9290"
    },
    "parentDataStepId": ""
   },
@@ -15991,7 +16015,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ddd0b191-fc20-4cf8-a2d9-178eabc16667"
+    "id": "207061d8-226e-4268-8ec0-d2232a8eed21"
    },
    "parentDataStepId": ""
   },
@@ -16386,7 +16410,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e4a2e3cb-3aac-4bff-b6b2-13f60ffa5156"
+    "id": "e982e6a3-8a66-4b30-b849-11cc61382536"
    },
    "parentDataStepId": ""
   },
@@ -16666,7 +16690,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -16732,7 +16756,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "883317e4-0d60-47bf-a79d-89a71da0728e"
+    "id": "ce339cb5-925b-4ee4-919a-b192d34a03d9"
    },
    "parentDataStepId": ""
   },
@@ -17078,7 +17102,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0f277a40-8ced-467c-b316-92ff3fdb4e47"
+    "id": "13ecbb8a-f02a-4907-b349-e750c3e6bda0"
    },
    "parentDataStepId": ""
   },
@@ -17715,7 +17739,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0e8de8ff-e083-4e87-90a5-7698fc945dea"
+    "id": "aed61f7e-346e-43be-97c2-ae64a0f33341"
    },
    "parentDataStepId": ""
   },
@@ -18011,7 +18035,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "04435da2-9f27-46b9-94b2-8379b7b5f8ca"
+    "id": "bfc7e396-37a0-465b-9049-9e4afce0d6c9"
    },
    "parentDataStepId": ""
   },
@@ -18416,7 +18440,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "de866bbc-8374-4695-9521-3ac4dee157e4"
+    "id": "4692de39-0dfe-4f46-8f3e-6374257decb4"
    },
    "parentDataStepId": ""
   },
@@ -18763,7 +18787,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "824a5b7f-5563-46ec-b7bd-c2de10f73098"
+    "id": "24dc3802-28a7-4063-a2a1-596c629f0c05"
    },
    "parentDataStepId": ""
   },
@@ -19158,7 +19182,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ba6e26b1-7551-48ed-b55b-5ab28d93e7b9"
+    "id": "deee7bbf-4040-438d-b7d5-3e3b89b70e82"
    },
    "parentDataStepId": ""
   },
@@ -19438,7 +19462,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -19504,7 +19528,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dc0212dc-0955-48f4-afb1-537cd7d1dea6"
+    "id": "817c7561-58a9-4dec-abb3-9702dc06bcc5"
    },
    "parentDataStepId": ""
   },
@@ -19850,7 +19874,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c07d02b3-cb0c-4b2e-91ea-bd97ba44338b"
+    "id": "7a60c5e9-2570-49db-9fb7-8735dd412034"
    },
    "parentDataStepId": ""
   },
@@ -20477,7 +20501,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "688aa6a1-73f8-4a5d-8a5f-d0067314056d"
+    "id": "ac881fcc-d807-4e69-bed2-a8f376de1e99"
    },
    "parentDataStepId": ""
   },
@@ -20773,7 +20797,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eac3fc71-7825-478e-9e20-029af1da2311"
+    "id": "5574f418-1d23-40c8-9409-e4f5f9504064"
    },
    "parentDataStepId": ""
   },
@@ -21178,7 +21202,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0d526cc8-c328-4482-a17b-b07d796d1775"
+    "id": "6b3a3824-9f2a-4e12-be6d-055e78e26edb"
    },
    "parentDataStepId": ""
   },
@@ -21525,7 +21549,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "8863d187-43cc-4ab8-9518-64fb5a3f9eb5"
+    "id": "cd6c4f79-5275-4d9a-8dd9-f58ada0d0770"
    },
    "parentDataStepId": ""
   },
@@ -21920,7 +21944,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d6eb3886-287f-4b7d-8822-1972ac3bb8e4"
+    "id": "5d8f722c-0e33-4ccb-8e01-72c1009aaea0"
    },
    "parentDataStepId": ""
   },
@@ -22200,7 +22224,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -22266,7 +22290,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "05e9fbda-178a-4850-89e8-052d55ed367e"
+    "id": "0c54073c-2c67-4f04-a39d-c40f2d441532"
    },
    "parentDataStepId": ""
   },
@@ -22612,7 +22636,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "8599ac16-7c1a-4ad3-acad-1707dc4e3156"
+    "id": "e6ea7a46-2319-40b7-ad2e-4ce6d060e480"
    },
    "parentDataStepId": ""
   },
@@ -23226,7 +23250,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "82208811-1bc3-410b-93a8-a52262ff62a9"
+    "id": "dbd6d37b-e0e1-4552-abf0-06ec97644889"
    },
    "parentDataStepId": ""
   },
@@ -23522,7 +23546,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a51a87c1-0bb4-4e2b-b942-6b033097aa66"
+    "id": "8b3e250c-8d19-46e0-8304-96956f750aac"
    },
    "parentDataStepId": ""
   },
@@ -23927,7 +23951,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "126b1669-4ca7-4510-ac59-6875e4f98122"
+    "id": "18b7e408-90ca-46c2-ab65-1e8f90e417a7"
    },
    "parentDataStepId": ""
   },
@@ -24274,7 +24298,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "27cadbe2-d76a-46e3-a74f-4142e95dbb14"
+    "id": "8c5bb9e3-21e1-4562-b290-f17f19dc29f5"
    },
    "parentDataStepId": ""
   },
@@ -24669,7 +24693,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e85f8a4f-d45b-47ef-82db-ec410e63f89b"
+    "id": "cf6248e9-2a81-4c38-b8a0-eea288ba765a"
    },
    "parentDataStepId": ""
   },
@@ -24949,7 +24973,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -25015,7 +25039,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "78d39b7a-653f-4ae2-a060-5c0baeb4e107"
+    "id": "77a8ba91-d309-4072-863a-ba2760657233"
    },
    "parentDataStepId": ""
   },
@@ -25361,7 +25385,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9533b357-f380-42ed-b206-e46358754ba4"
+    "id": "3fb86dc8-8595-4509-a8ac-c5ceafd4963a"
    },
    "parentDataStepId": ""
   },
@@ -25988,7 +26012,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dfd94f29-ca67-4ddf-9754-7e84feb9c0c5"
+    "id": "a5300cdf-e5a0-496a-b8cb-bfabd39e900c"
    },
    "parentDataStepId": ""
   },
@@ -26284,7 +26308,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "4bc645cc-a049-4f10-aff2-6dd80296cc39"
+    "id": "823d5646-dad1-4a0e-8983-13d77802c4ae"
    },
    "parentDataStepId": ""
   },
@@ -26728,7 +26752,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1601e22f-2968-4c24-816e-6eadbc55f709"
+    "id": "be1d3649-10ee-4eca-88bd-8eda3a818423"
    },
    "parentDataStepId": ""
   },
@@ -27328,7 +27352,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "774abd13-d9f0-407f-bdbd-af5e39a8fea4"
+    "id": "f6f714d3-686c-4bb2-8d7c-24bc3e69cbc8"
    },
    "parentDataStepId": ""
   },
@@ -27643,7 +27667,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "67c26c9e-0644-42af-8946-8e6b048f8e97"
+    "id": "408d4dac-277e-4c06-8b7c-b6e1735876df"
    },
    "parentDataStepId": ""
   },
@@ -27994,7 +28018,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c2879ded-3976-4696-ab7d-ba7c01a45acb"
+    "id": "ad0a370c-3b76-4cef-b56c-a6b25dc6133f"
    },
    "parentDataStepId": ""
   },
@@ -28361,7 +28385,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1444ed16-cca9-48a1-b56c-66e27dad235f"
+    "id": "bed630fd-45e5-4ad8-a388-0900faeaf2c1"
    },
    "parentDataStepId": ""
   },
@@ -28676,7 +28700,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b38b09df-66c7-4696-acc2-45822b1a9316"
+    "id": "4fd06d0c-f5d5-4cdc-8eaa-d3f212dfaea4"
    },
    "parentDataStepId": ""
   },
@@ -29372,7 +29396,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "2502b00f-f609-4ac7-a38b-9b95be4a9d49"
+    "id": "dde325ec-0b96-4ea8-9cbc-90c79d450067"
    },
    "parentDataStepId": ""
   },
@@ -29972,7 +29996,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bff46557-f589-41e0-be6d-c3f5c83471b3"
+    "id": "23e540f1-06c4-4dc8-86db-b28b6fd4b839"
    },
    "parentDataStepId": ""
   },
@@ -30287,7 +30311,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5828f92e-08de-4691-8c23-8bbcfc7d525a"
+    "id": "f35a5607-0266-4db5-ac7b-02339815537a"
    },
    "parentDataStepId": ""
   },
@@ -30638,7 +30662,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "493b49aa-1a81-4c5e-b157-8e04ac8c245c"
+    "id": "338d2592-2547-4281-ad82-d50b05cfcd82"
    },
    "parentDataStepId": ""
   },
@@ -31005,7 +31029,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e13eb05b-3adc-46b1-8d09-7cecbee7b8e7"
+    "id": "459eaa56-fa6e-4fb9-ac11-ba6ff4dec117"
    },
    "parentDataStepId": ""
   },
@@ -31320,7 +31344,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c982f75d-8dc2-4193-9aaf-8126caafe1f6"
+    "id": "77f6c7ac-4f7b-4610-99d2-ecee20f56674"
    },
    "parentDataStepId": ""
   },
@@ -32056,7 +32080,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dace9ae9-6ebc-4cf0-a7b0-3de650773808"
+    "id": "d02854cb-5871-4c94-9712-46bbfd71646c"
    },
    "parentDataStepId": ""
   },
@@ -32656,7 +32680,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "656dc732-1155-4984-8ebb-b354a2a3fcc1"
+    "id": "641f5833-e2f4-42ab-9663-e6d1aca349c9"
    },
    "parentDataStepId": ""
   },
@@ -32971,7 +32995,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "53989428-ad68-41e8-b99d-2a3df6842bb5"
+    "id": "d6fe6eba-1df6-4078-a4d6-5c8241e1bfc0"
    },
    "parentDataStepId": ""
   },
@@ -33322,7 +33346,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eab5e22b-0f3d-42e5-b8ea-7521ffa68494"
+    "id": "f5ec6f98-eef4-4778-affc-2193ea16b0b6"
    },
    "parentDataStepId": ""
   },
@@ -33689,7 +33713,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6c1d366f-4897-4add-8b00-0ed452c930d5"
+    "id": "8bbd422f-fca0-49df-bfb1-5a099adf8e59"
    },
    "parentDataStepId": ""
   },
@@ -34004,7 +34028,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ec7556f8-52fe-4b71-8254-74a471461327"
+    "id": "9ebcc49e-f200-4a8a-93ae-6bb27a05391c"
    },
    "parentDataStepId": ""
   },
@@ -34700,7 +34724,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b7984d5f-0086-4677-8d37-e53832cd3fe3"
+    "id": "95a1a9fa-77c6-4cfb-92bb-559ec6d38e64"
    },
    "parentDataStepId": ""
   },
@@ -35300,7 +35324,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "372f1159-8224-43ca-8145-dbcb49befa9e"
+    "id": "39867347-e032-449c-890d-a2c2a69bcd19"
    },
    "parentDataStepId": ""
   },
@@ -35615,7 +35639,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "73d03963-e505-4dc4-9ea8-31b1df980b96"
+    "id": "a33499c1-e1f1-404b-837c-985a95c0735b"
    },
    "parentDataStepId": ""
   },
@@ -35966,7 +35990,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e15f1808-5564-4fc0-9fe4-84e882f95cea"
+    "id": "082ea0d3-2415-41fa-9abf-7a1be04499e3"
    },
    "parentDataStepId": ""
   },
@@ -36333,7 +36357,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ef866fe0-e6e6-4eb8-b2ca-3cd8b1fdfa34"
+    "id": "097e8338-5839-43e5-826c-431c9a27fa76"
    },
    "parentDataStepId": ""
   },
@@ -36648,7 +36672,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "f8646356-5a7a-489a-b2af-fa5426355cee"
+    "id": "95e5f55c-e6c4-47d5-b94d-1bdc96d6d36d"
    },
    "parentDataStepId": ""
   },
@@ -37388,7 +37412,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "aa3fe763-cf29-4d11-805c-c1103bcc030b"
+    "id": "a0e76793-9bef-4084-a61e-543f0b43be1c"
    },
    "parentDataStepId": ""
   },
@@ -38164,7 +38188,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "46d4112b-b5ed-4aa7-9b86-f62cf72da370"
+    "id": "b3167bb0-4ed2-41ec-800e-d7c4cf748dfd"
    },
    "parentDataStepId": ""
   },
@@ -38910,7 +38934,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1232675e-bcae-43f5-836f-b5c39aa9af44"
+    "id": "3e899e00-85ac-42eb-9c47-81a98bad47b4"
    },
    "parentDataStepId": ""
   },
@@ -39656,7 +39680,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "174001ef-9944-4d31-9355-ddf51a3906f2"
+    "id": "a72bf3a2-ee14-47ea-adad-293d9570b1fd"
    },
    "parentDataStepId": ""
   },
@@ -40050,12 +40074,887 @@
     "x": -845.0,
     "y": -448.0
    }
+  },
+  {
+   "kind": "DataStep",
+   "id": "387408cf-a59d-4701-8f5a-5eaee4a05009",
+   "groupId": "",
+   "name": "Export select Log Cmb",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "387408cf-a59d-4701-8f5a-5eaee4a05009-i-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "387408cf-a59d-4701-8f5a-5eaee4a05009-o-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 149.45779418945312,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 1230.6326834106444,
+     "y": 653.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Perform computation on user defined projection.",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [],
+        "palette": {
+         "kind": "CategoryPalette",
+         "backcolor": 0,
+         "properties": [],
+         "colorList": {
+          "kind": "ColorList",
+          "name": ""
+         },
+         "stringColorElements": []
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 250.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 1
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": []
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds8",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "",
+      "version": "",
+      "operatorId": "",
+      "operatorKind": "",
+      "propertyValues": [],
+      "url": {
+       "kind": "Url",
+       "uri": ""
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [
+      {
+       "kind": "Pair",
+       "key": "cpu",
+       "value": "0"
+      },
+      {
+       "kind": "Pair",
+       "key": "ram",
+       "value": "0"
+      }
+     ],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 250.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply..Supergroup",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 200.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply..Test Condition",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 240.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply..Barcode",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 170.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply..Row",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 130.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply..ID",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 120.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "S100QC.logTransformed",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 210.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "FitApply.CmbCor",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 2136
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "7f63e7c6-85f8-49d9-8e65-16bbaa041858"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "ExportStep",
+   "id": "073f4373-bbfe-4280-a795-301b1de06fd8",
+   "groupId": "",
+   "name": "QC_PTK_LogCmb",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "073f4373-bbfe-4280-a795-301b1de06fd8-i-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 123.10990905761719,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 1406.8066259765624,
+     "y": 651.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Export selected data set to the current project.",
+   "model": {
+    "kind": "ExportModel"
+   }
+  },
+  {
+   "kind": "DataStep",
+   "id": "a21f9703-876d-4021-a147-d421b413b079",
+   "groupId": "",
+   "name": "Export select VSN Cmb",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "a21f9703-876d-4021-a147-d421b413b079-i-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "a21f9703-876d-4021-a147-d421b413b079-o-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 151.78179931640625,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 2641.2674719238285,
+     "y": 710.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Perform computation on user defined projection.",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [],
+        "palette": {
+         "kind": "CategoryPalette",
+         "backcolor": 0,
+         "properties": [],
+         "colorList": {
+          "kind": "ColorList",
+          "name": ""
+         },
+         "stringColorElements": []
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 250.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 1
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": []
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds9",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "",
+      "version": "",
+      "operatorId": "",
+      "operatorKind": "",
+      "propertyValues": [],
+      "url": {
+       "kind": "Url",
+       "uri": ""
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [
+      {
+       "kind": "Pair",
+       "key": "cpu",
+       "value": "0"
+      },
+      {
+       "kind": "Pair",
+       "key": "ram",
+       "value": "0"
+      },
+      {
+       "kind": "Pair",
+       "key": "cpu-shares",
+       "value": "0"
+      },
+      {
+       "kind": "Pair",
+       "key": "tercen.collect.stats",
+       "value": "false"
+      },
+      {
+       "kind": "Pair",
+       "key": "debug",
+       "value": "false"
+      }
+     ],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 250.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply..Supergroup",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 240.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply..Test Condition",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 280.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply..Barcode",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 210.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply..Row",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 170.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply..ID",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-QC.identity",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 150.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      },
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "VSN-FitApply.CmbCor",
+        "type": "double"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 190.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 2136
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "215899a3-7475-4c36-aaf3-a2cc14e5c8c1"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "ExportStep",
+   "id": "6c3b2f3c-a646-4f44-972d-0e63ade699ad",
+   "groupId": "",
+   "name": "QC_PTK_VSNCmb",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "6c3b2f3c-a646-4f44-972d-0e63ade699ad-i-0",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 125.43391418457031,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 2842.4414144897464,
+     "y": 710.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Export selected data set to the current project.",
+   "model": {
+    "kind": "ExportModel"
+   }
   }
  ],
  "offset": {
   "kind": "Point",
-  "x": -474.0,
-  "y": 76.0
+  "x": -230.0,
+  "y": 4.0
  },
  "scale": 1.0
 }
